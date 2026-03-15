@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "vazhakulamtharavade.aternos.me",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 666,
+    "x": 0,
     "y": 100,
-    "z": 233
+    "z": 0,
   },
   "utils": {
     "auto-auth": {
